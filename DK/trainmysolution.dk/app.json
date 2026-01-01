@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "0370afc0-34e9-42be-a88c-5ebe8eb24f32",
+      "name": "trainmysolution.w1",
+      "publisher": "Tommy",
+      "version": "1.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
